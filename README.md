@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Нажаль не зміг зробити нормальний функціонат так що все робиться через термінал 
 
-Things you may want to cover:
+Можна парсити деякі файли з сайту ЧДБК ведыть в терміналі scraper.er результат будев в output.csv
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ChatGPT теж "працюе" через термінал поскільки потрібен apt ключ з аккаунту на якому е поповнений баланс rails c -> ChatService.new(message: "Ваш запит").call 
