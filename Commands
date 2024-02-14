@@ -1,0 +1,2 @@
+ChatService.new(message: "TEXT").call
+scraper.rb
